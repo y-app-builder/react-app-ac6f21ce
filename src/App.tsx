@@ -16,7 +16,7 @@ function App() {
         style={{
           padding: '0.5rem 1rem',
           fontSize: '1rem',
-          backgroundColor: '#007bff',
+          backgroundColor: '#800080', // Changed button color to purple
           color: '#fff',
           border: 'none',
           borderRadius: '4px',
